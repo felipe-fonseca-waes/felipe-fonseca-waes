@@ -7,4 +7,4 @@ Apple M3 Max‑chip met 16‑core CPU, 40‑core GPU en 16‑core Neural Engine
 USB‑C-lichtnetadapter van 140 W
 Drie Thunderbolt 4-poorten, HDMI-poort, SDXC-kaartsleuf, mini‑jack-aansluiting, MagSafe 3-poort
 
-Magic Keyboard met achtergrondverlichting en Touch ID - ** Internationaal Engels **
+Magic Keyboard met achtergrondverlichting en Touch ID - * Internationaal Engels *
